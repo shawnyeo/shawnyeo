@@ -10,7 +10,7 @@ Seeking graduate opportunities in Hong Kong: Data Analyst, Junior Data Scientist
 
 ## Core technical skills
 
-- **Data and ML:** Python, pandas, NumPy, scikit-learn, PyTorch, data cleaning and exploratory analysis.
+- **Data and ML:** Python, SQL, pandas, NumPy, scikit-learn, PyTorch, data cleaning and exploratory analysis.
 - **Research and visualization:** NLP-based skill extraction, quantitative analysis, Matplotlib, Seaborn and Streamlit.
 - **Development:** JavaScript, Express, MongoDB, Git and pytest.
 
@@ -18,7 +18,7 @@ Seeking graduate opportunities in Hong Kong: Data Analyst, Junior Data Scientist
 
 ### 1. Quantifying Curriculum–Market Alignment for Entry-Level Data Roles in Hong Kong
 
-CUHK capstone research combining NLP-based skill extraction, curriculum mapping and quantitative alignment analysis, supported by a Streamlit dashboard. Public description only; restricted source data and the incomplete reproduction pipeline are excluded.
+CUHK capstone research combining NLP-based skill extraction, curriculum mapping and quantitative alignment analysis, supported by a Streamlit dashboard. Academic research completed; portfolio refactoring and reproducibility validation are ongoing. Restricted source data are not publicly distributed.
 
 ### 2. FeelLog — Emotion journaling
 
