@@ -12,7 +12,7 @@ I work across survey data, natural-language processing and practical ML experime
 - **Team study:** collected an archive of **5,525** Hong Kong job advertisements, with **2,074 usable job ads** in the final analysis, and aligned skills to **91 course descriptions**.
 - **Approach:** job-ad section extraction, SkillNER, course-to-skill mapping, demand-weighted coverage and Streamlit visualization.
 - **Recorded results:** demand-weighted **Top-20 coverage of 39.14% (DSPS) vs 35.95% (CDAS)**. These are text-skill alignment measures, *not* employment rates or measures of education quality.
-- The submitted capstone report is complete; public code/data reproduction is still pending. [Metrics, methodological cautions and portfolio plan](PROJECT_EVIDENCE.md#1-cuhk-capstone--curriculummarket-alignment-in-data-science-education-20252026)
+- The submitted capstone report is complete; public code/data reproduction is still pending. [Metrics, methodological cautions and portfolio plan](PROJECT_EVIDENCE.md)
 
 ### 2. [FeelLog — Multimodal Emotion Journaling AI](https://github.com/StaG-lab/AI_Dev_3rd_Project) (2025)
 - **Team evaluation:** audited **40,550** emotion-labeled images and identified **12,176** cases in which uploader labels disagreed with annotator-majority labels.
